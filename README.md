@@ -125,19 +125,19 @@ Power BI File:
 
 ## Home Dashboard
 
-![Home Dashboard](screenshots/dashboard_overview.png)
+![Home Dashboard](screenshots/banking_dashboard_overview.png)
 
 ---
 
 ## Loan Analysis Dashboard
 
-![Loan Analysis](screenshots/loan_analysis.png)
+![Loan Analysis](screenshots/banking_loan_analysis.png)
 
 ---
 
 ## Deposit Analysis Dashboard
 
-![Deposit Analysis](screenshots/deposit_analysis.png)
+![Deposit Analysis](screenshots/banking_deposit_analysis.png)
 
 ---
 
